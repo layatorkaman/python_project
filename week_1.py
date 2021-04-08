@@ -36,7 +36,8 @@ list_distance.reverse()
 
 for i in range(3):
     print(list_distance[i])
-       
+print("this is a test")
+print("*")
     
 
     
